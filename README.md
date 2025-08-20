@@ -1,9 +1,7 @@
-Got it! I’ve cleaned up the **Markdown formatting** so it’s neat, consistent, and renders properly on GitHub. Only formatting changes—content remains the same.
 
-````markdown
 # LangChain + Ollama Demo 🤖
 
-A **basic demo project** integrating [LangChain](https://www.langchain.com/) with [Ollama](https://ollama.ai/) for a simple local chatbot experience.  
+A **basic demo project** integrating [LangChain](https://www.langchain.com/) with [Ollama](https://ollama.ai/) for a simple local chatbot experience.
 
 ---
 
@@ -12,8 +10,9 @@ A **basic demo project** integrating [LangChain](https://www.langchain.com/) wit
 - Simple Q&A demo using LangChain + Ollama
 - Easy local setup; no API keys required
 - Demonstrates basic LangChain functionality
-- ![Screenshot 1](https://github.com/user-attachments/assets/533b2127-0b64-4fc5-be4b-34b69dea8eb7)
-- ![Screenshot 2](https://github.com/user-attachments/assets/0d19a784-a973-4671-8391-a307b501f270)
+
+![Screenshot 1](https://github.com/user-attachments/assets/533b2127-0b64-4fc5-be4b-34b69dea8eb7)
+![Screenshot 2](https://github.com/user-attachments/assets/0d19a784-a973-4671-8391-a307b501f270)
 
 ---
 
@@ -42,13 +41,13 @@ pip install -r requirements.txt
 
 3. **Run the app**
 
-* If using a Python script (`app.py`):
+* Python script:
 
 ```bash
 python app.py
 ```
 
-* If using Streamlit:
+* Streamlit:
 
 ```bash
 streamlit run app.py
@@ -70,7 +69,7 @@ langchain-ollama-demo/
 
 ## Notes
 
-* Accuracy is **limited** — this is purely experimental.
+* Accuracy is **limited** — purely experimental.
 * LangChain + Ollama models run **locally**, so performance depends on your machine.
 
 ```
