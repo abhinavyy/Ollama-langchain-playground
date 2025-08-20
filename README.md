@@ -29,7 +29,7 @@ A **basic demo project** integrating [LangChain](https://www.langchain.com/) wit
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/langchain-ollama-demo.git
+git clone https://github.com/abhinavyy/Ollama-langchain-playground.git
 cd langchain-ollama-demo
 ````
 
