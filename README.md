@@ -1,3 +1,4 @@
+Got it! I’ve cleaned up the **Markdown formatting** so it’s neat, consistent, and renders properly on GitHub. Only formatting changes—content remains the same.
 
 ````markdown
 # LangChain + Ollama Demo 🤖
@@ -11,10 +12,8 @@ A **basic demo project** integrating [LangChain](https://www.langchain.com/) wit
 - Simple Q&A demo using LangChain + Ollama
 - Easy local setup; no API keys required
 - Demonstrates basic LangChain functionality
--<img width="2877" height="1799" alt="Screenshot 2025-08-21 014028" src="https://github.com/user-attachments/assets/533b2127-0b64-4fc5-be4b-34b69dea8eb7" />
--<img width="2879" height="1459" alt="Screenshot 2025-08-21 014129" src="https://github.com/user-attachments/assets/0d19a784-a973-4671-8391-a307b501f270" />
-
-
+- ![Screenshot 1](https://github.com/user-attachments/assets/533b2127-0b64-4fc5-be4b-34b69dea8eb7)
+- ![Screenshot 2](https://github.com/user-attachments/assets/0d19a784-a973-4671-8391-a307b501f270)
 
 ---
 
@@ -61,10 +60,10 @@ streamlit run app.py
 
 ```
 langchain-ollama-demo/
-├─ app.py              # Main demo app
-├─ requirements.txt    # Python dependencies
-├─ .env         # Langchain api. auto del in 30 days 
-├─ 1.2.1-Simpleapp.ipynb
+├─ app.py                   # Main demo app
+├─ requirements.txt         # Python dependencies
+├─ .env                     # LangChain API (auto delete in 30 days)
+├─ 1.2.1-Simpleapp.ipynb    # Optional notebook demo
 ```
 
 ---
@@ -74,4 +73,5 @@ langchain-ollama-demo/
 * Accuracy is **limited** — this is purely experimental.
 * LangChain + Ollama models run **locally**, so performance depends on your machine.
 
----
+```
+```
