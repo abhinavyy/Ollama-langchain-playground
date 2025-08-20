@@ -30,7 +30,6 @@ A **basic demo project** integrating [LangChain](https://www.langchain.com/) wit
 
 ```bash
 git clone https://github.com/abhinavyy/Ollama-langchain-playground.git
-cd langchain-ollama-demo
 ````
 
 2. **Install dependencies**
